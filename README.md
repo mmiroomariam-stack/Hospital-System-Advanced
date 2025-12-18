@@ -8,19 +8,20 @@
 ### 2. Project Results (Screenshots)
 
 #### A. Doctors Table
-![Doctors Table](Doctors_List.jpg)
+![Doctors](Doctors_List.jpg)
 
 #### B. Patients Table - Part 1
-![Patients Table 1](Patients_List_1.jpg)
+![Patients 1](Patients_List_1.jpg)
 
 #### C. Patients Table - Part 2
-![Patients Table 2](Patients_List_2.jpg)
+![Patients 2](Patients_List_2.jpg)
 
 ---
 
 ### 3. About this Project
+* **Tool Used**: Developed and executed using **SQL Code Play** app.
+* **Platform**: Created entirely on **Mobile**.
 * **Structure**: Two related tables (Doctors & Patients).
-* **Key Feature**: Used Foreign Keys to link patients to their doctors.
 * **Operations**: Demonstrated full database management (Update/Delete).
 
 ---
