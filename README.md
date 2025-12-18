@@ -8,13 +8,13 @@
 ### 2. Project Results (Screenshots)
 
 #### A. Doctors Table
-![Doctors](Doctors_List.jpg)
+![Doctors](d1.jpg)
 
 #### B. Patients Table - Part 1
-![Patients 1](Patients_List_1.jpg)
+![Patients 1](p1.jpg)
 
 #### C. Patients Table - Part 2
-![Patients 2](Patients_List_2.jpg)
+![Patients 2](p2.jpg)
 
 ---
 
@@ -27,3 +27,4 @@
 ---
 ### Submitted by:
 **Mariam**
+المرجع الأساسي للكود هو ملف `Hospital_Database.
