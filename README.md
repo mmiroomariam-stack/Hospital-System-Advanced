@@ -1,7 +1,7 @@
 # Hospital Management System (Advanced)
 
 ### 1. Database Code (SQL)
-> **Note:** All SQL commands (Create, Insert, Update, Delete) are stored in the file: `Hospital_Database.sql`
+You can find the full database structure and queries in the `Hospital_Database.sql` file above.
 
 ---
 
@@ -13,7 +13,7 @@
 #### B. Patients Table - Part 1
 ![Patients Table 1](Patients_List.jpg)
 
-#### C. Patients Table - Part 2 (Full List)
+#### C. Patients Table - Part 2 (Remaining Data)
 ![Patients Table 2](Patients_List_2.jpg)
 
 ---
@@ -22,3 +22,8 @@
 * **Structure**: Two related tables (Doctors & Patients).
 * **Key Feature**: Used Foreign Keys to link patients to their doctors.
 * **Operations**: Demonstrated full database management (Update/Delete).
+* **Tool**: Developed using "SQL Code Play" on Mobile.
+
+---
+### Submitted by:
+**Mariam**
